@@ -11,37 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://211.137.34.186:18081/CTServer/ios/BIPM_iphone.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://211.137.34.186:18081/CTServer/ios/jsdx-ipad-512-512.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://211.137.34.186:18081/CTServer/ios/jsdx-ipad-57-57.png</string>
+					<string>http://10.67.10.163:18080/gbh/apk/Fee.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ailk.lnydsjjf</string>
+				<string>com.ai.nbd</string>
 				<key>bundle-version</key>
-				<string>1.0.0.0</string>
+				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>手机经分</string>
 				<key>title</key>
-				<string>手机经分</string>
+				<string>收入宝</string>
 			</dict>
 		</dict>
 	</array>
