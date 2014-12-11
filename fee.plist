@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://211.137.34.186:18081/CTServer/ios/BIPM_iphone.ipa</string>
+					<string>http://10.67.10.163:18080/gbh/apk/Fee.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ai.nbd</string>
 				<key>bundle-version</key>
-				<string>0.0.3</string>
+				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
