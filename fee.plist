@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.66.108:8080/do/Fee.ipa</string>
+					<string>http://211.137.34.226/gbh/apk/Fee.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ai.nbd</string>
 				<key>bundle-version</key>
-				<string>0.0.3</string>
+				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
